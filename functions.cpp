@@ -1,5 +1,4 @@
-#include<string>
-#include<vector>
+#include"function.h"
 using namespace std;
 
 vector<string> getResult(vector<string> strs){
