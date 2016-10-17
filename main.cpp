@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<vector>
+#include "function.h"
 using namespace std;
 
 int main(int argc, _TCHAR* argv[])
