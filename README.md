@@ -1,5 +1,6 @@
 # thoughtWorks:HomeWork
 ## generateSummary 主要工程文件      
+**运行generateSummary.cpp 文件，根据输入的数据，输出计算结果。**   
 * solution.h 类定义头文件   
 * solution.cpp 类的成员函数定义cpp文件   
 * generateSummary.cpp 包含主函数的cpp文件   
@@ -50,6 +51,7 @@
     * 功能：输入一个时间段，输出该时间段段内定一个场地所需的单位费用。    
           
 ## UnitTest 单元测试工程文件   
+**运行solutionTest.cpp文件，对类的各个成员函数进行测试。**
 * solution.h 类定义头文件   
 * solution.cpp 类的成员函数定义cpp文件   
 * solutionTest.cpp 单元测试cpp文件   
